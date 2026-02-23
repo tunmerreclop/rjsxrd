@@ -45,7 +45,14 @@ EXTRA_URLS_FOR_BYPASS = [
     "https://gitverse.ru/api/repos/Vsevj/OBS/raw/branch/master/wwh",
     "https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwh",
     "https://raw.githubusercontent.com/twinkalex1470-crypto/CatWhiteVPN/refs/heads/main/CaTWhiteVPN.txt",
-    "https://fsub.flux.2bd.net/githubmirror/bypass/bypass-all.txt"
+    "https://fsub.flux.2bd.net/githubmirror/bypass/bypass-all.txt",
+    "https://storage.yandexcloud.net/cid-vpn/whitelist.txt",
+    "https://ger.ufavpn.ru/sub/VWZhVlBOODMxMzY2ODUxMiwxNzcxMTU2ODY2VQLdohdeRM",
+    "https://raw.githubusercontent.com/SilentGhostCodes/WhiteListVpn/refs/heads/main/Whitelist.txt",
+    "https://raw.githubusercontent.com/SilentGhostCodes/WhiteListVpn/refs/heads/main/Whitelist%20%E2%84%962.txt",
+    "https://github.com/cinev505/VlessTrogan-vpn-key/blob/main/Whitelist-key",
+    "https://github.com/restlycames/RestlyConnect_sub/raw/refs/heads/main/free_vless_servers.txt",
+    "https://github.com/restlycames/RestlyConnect_sub/raw/refs/heads/main/whitelists.txt"
 ]
 
 # Base64-encoded subscription URLs
