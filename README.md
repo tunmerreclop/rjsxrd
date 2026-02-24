@@ -2,6 +2,8 @@
 
 tgc: [t.me/rjsxrd](https://t.me/rjsxrd)
 
+---
+
 Автоматически обновляемая коллекция публичных VPN-конфигов (`V2Ray` / `VLESS` / `Trojan` / `VMess` / `Reality` / `Shadowsocks` / `Hysteria2` / `TUIC`) для быстрого обхода блокировок. Обход белых списков на мобильном интернете.
 
 Каждый конфиг — это TXT-подписка, которую можно импортировать практически в любой современный клиент (`v2rayNG`, `NekoRay`, `Throne`, `v2rayN`, `V2Box`, `v2RayTun`, `Hiddify` и др.).
@@ -111,6 +113,8 @@ tgc: [t.me/rjsxrd](https://t.me/rjsxrd)
 - **[bypass-13](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-13.txt)**
 - **[bypass-14](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-14.txt)**
 - **[bypass-15](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-15.txt)**
+- **[bypass-16](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-16.txt)**
+- **[bypass-17](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-17.txt)**
 
 ### Небезопасные конфиги для обхода SNI/CIDR (bypass-unsecure/)
 
@@ -133,6 +137,8 @@ tgc: [t.me/rjsxrd](https://t.me/rjsxrd)
 - **[bypass-unsecure-14](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-14.txt)**
 - **[bypass-unsecure-15](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-15.txt)**
 - **[bypass-unsecure-16](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-16.txt)**
+- **[bypass-unsecure-17](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-17.txt)**
+- **[bypass-unsecure-18](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-18.txt)**
 
 ### Конфиги, разделенные по протоколам (split-by-protocols/)
 
