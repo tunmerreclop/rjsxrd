@@ -139,6 +139,7 @@ tgc: [t.me/rjsxrd](https://t.me/rjsxrd)
 - **[bypass-unsecure-16](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-16.txt)**
 - **[bypass-unsecure-17](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-17.txt)**
 - **[bypass-unsecure-18](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-18.txt)**
+- **[bypass-unsecure-19](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-19.txt)**
 
 ### Конфиги, разделенные по протоколам (split-by-protocols/)
 
