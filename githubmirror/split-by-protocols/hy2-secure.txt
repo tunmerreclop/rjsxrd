@@ -18,8 +18,8 @@ hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?sni=🔒 [By Ebr
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?sni=🔒 [By EbraSha]&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi # 🔒 [By EbraSha]
 hy2://zhangyang@130.61.50.75:6443/ # 🔒 [By EbraSha]
 hy2://5046SHWqk6@91.132.51.160:844/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20510762
-hy2://zhangyang@130.61.50.75:6443/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20774630
-hy2://5046SHWqk6@91.132.51.160:844/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20527270
+hy2://zhangyang@130.61.50.75:6443/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20261198
+hy2://5046SHWqk6@91.132.51.160:844/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20325865
 hy2://85509d13-a5ea-460f-ae9d-12a58fc3aa9f@130.61.244.114:443?sni=1.nodes.yljc.online#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://8c4bd1ec-377e-4914-87a3-0e2c6b618bc2@185.225.201.228:18488?obfs=salamander&obfs-password=S0lPELawhd&sni=direct-nl.snowguard-cloud-vpn-01.link#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://8c80cb0d-5ec1-48b5-bd6a-7bdc4d2e1d0a@172.207.208.4:30002?sni=hy2jp01.xqc.best#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
